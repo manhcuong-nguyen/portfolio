@@ -185,18 +185,6 @@ GitLab CI/CD, Docker, Kubernetes, Terraform
 - **French** — Fluent  
 - **English** — Fluent  
 
----
-
-# 🔗 Blog & Media
-
-- (Add your blog link here)  
-- (Add GitHub repo link for your research)
-
----
-
-# 📄 CV PDF
-
-If you want, I can generate a downloadable **CV.pdf** version using LaTeX.
 
 ---
 
