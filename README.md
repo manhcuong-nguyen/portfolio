@@ -2,7 +2,7 @@
 ### Doctor in Computer Science — AI, Networks & Data Science  
 📍 Paris, France  
 📧 manhcuongeic@gmail.com  
-🔗 LinkedIn / GitHub (add links if you want)
+🔗 LinkedIn / GitHub
 
 ---
 
